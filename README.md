@@ -6,5 +6,5 @@ Run
 to install dependencies
 then you can use watch or build to create the bundle.js file
 
-```npm run build```
+```npm run build``` OR
 ```npm run watch```
